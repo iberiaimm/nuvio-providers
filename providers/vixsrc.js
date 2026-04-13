@@ -41,7 +41,7 @@ var __async = (__this, __arguments, generator) => {
 };
 
 // src/vixsrc/constants.js
-var TMDB_API_KEY = "68e094699525b18a70bab2f86b1fa706";
+var TMDB_API_KEY = "4d8fa4b38dd1070fa957a2d82dcd257c";
 var BASE_URL = "https://vixsrc.to";
 var USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
