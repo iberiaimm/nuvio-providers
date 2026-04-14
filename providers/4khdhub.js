@@ -44,8 +44,8 @@ var __async = (__this, __arguments, generator) => {
 };
 
 // src/4khdhub/constants.js
-var BASE_URL = "https://4khdhub.fans";
-var TMDB_API_KEY = "439c478a771f35c05022f9feabcca01c";
+var BASE_URL = "https://4khdhub.dad";
+var TMDB_API_KEY = "4d8fa4b38dd1070fa957a2d82dcd257c";
 var USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36";
 
 // src/4khdhub/http.js
