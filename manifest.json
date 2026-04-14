@@ -20,6 +20,23 @@
       ]
     },
     {
+      "id": "vidsrc",
+      "name": "VidSrc",
+      "description": "VidSrc M3U8 streaming with multiple server support",
+      "version": "1.0.0",
+      "author": "Nuvio Team",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vidsrc.js",
+      "enabled": true,
+      "logo": "https://vsembed.ru/template/vidsrc-ico.png",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
       "id": "dooflix",
       "name": "DooFlix",
       "description": "Fast streaming provider with direct TMDB integration",
@@ -232,23 +249,6 @@
       "filename": "providers/watch32.js",
       "enabled": false,
       "logo": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "vidsrc",
-      "name": "VidSrc",
-      "description": "VidSrc M3U8 streaming with multiple server support",
-      "version": "1.0.0",
-      "author": "Nuvio Team",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/vidsrc.js",
-      "enabled": false,
-      "logo": "https://vidsrc.xyz/template/vidsrc-ico.png",
       "contentLanguage": [
         "en"
       ]
