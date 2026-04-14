@@ -16,10 +16,10 @@ var __spreadValues = (a, b) => {
 };
 const cheerio = require("cheerio-without-node-native");
 console.log("[VidSrc] Using cheerio-without-node-native for DOM parsing");
-const TMDB_API_KEY = "439c478a771f35c05022f9feabcca01c";
+const TMDB_API_KEY = "4d8fa4b38dd1070fa957a2d82dcd257c";
 const VIDSRC_PROXY_URL = process.env.VIDSRC_PROXY_URL;
 let BASEDOM = "https://cloudnestra.com";
-const SOURCE_URL = "https://vidsrc.xyz/embed";
+const SOURCE_URL = "https://vsembed.ru/embed";
 function fetchWrapper(url, options) {
   if (VIDSRC_PROXY_URL) {
     const proxiedUrl = `${VIDSRC_PROXY_URL}${encodeURIComponent(url)}`;
