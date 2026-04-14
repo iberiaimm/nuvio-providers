@@ -19,8 +19,8 @@ var __spreadValues = (a, b) => {
 var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
 const cheerio = require("cheerio-without-node-native");
 console.log("[HDRezka] Using cheerio-without-node-native for DOM parsing");
-const TMDB_API_KEY = "439c478a771f35c05022f9feabcca01c";
-const REZKA_BASE = "https://hdrezka.ag/";
+const TMDB_API_KEY = "4d8fa4b38dd1070fa957a2d82dcd257c";
+const REZKA_BASE = "https://hdrezka-home.tv";
 const BASE_HEADERS = {
   "X-Hdrezka-Android-App": "1",
   "X-Hdrezka-Android-App-Version": "2.2.0",
