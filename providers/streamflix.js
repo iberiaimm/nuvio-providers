@@ -3,7 +3,7 @@
 const cheerio = require('cheerio-without-node-native');
 
 // Constants
-const TMDB_API_KEY = "439c478a771f35c05022f9feabcca01c";
+const TMDB_API_KEY = "4d8fa4b38dd1070fa957a2d82dcd257c";
 const STREAMFLIX_API_BASE = "https://api.streamflix.app";
 const CONFIG_URL = `${STREAMFLIX_API_BASE}/config/config-streamflixapp.json`;
 const DATA_URL = `${STREAMFLIX_API_BASE}/data.json`;
